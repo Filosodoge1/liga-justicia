@@ -8,3 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 # Agregando información random para aprendizaje
 
 Hola mundo como estas?
+
+# Cambios
+
+Estos son nuevos cambios en el readme
