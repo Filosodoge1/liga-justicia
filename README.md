@@ -11,4 +11,4 @@ Hola mundo como estas?
 
 # Cambios
 
-Estos son nuevos cambios en el readme
+Estos son cambios desde el navegador de github
